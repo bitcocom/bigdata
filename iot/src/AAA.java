@@ -1,6 +1,6 @@
 public class AAA {
     public void hap() {
-    	// ÇÑ±ÛÄÚµù~~
+    	// í•œê¸€ì¸ì½”ë”©
     	System.out.println("OK");
     }
 }
