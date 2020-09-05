@@ -1,5 +1,5 @@
-
-
 public class AAA {
-/// 수정함(박매일)
+    public void hap() {
+    	System.out.println("OK");
+    }
 }
